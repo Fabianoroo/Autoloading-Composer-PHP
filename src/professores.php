@@ -7,4 +7,8 @@ class professores
         echo 'Construtor Professores iniciado';
     }
 
+    public function teste(){
+        
+    }
+
 }
